@@ -1,3 +1,4 @@
-nombre 
+nombre
+apellido 
 edad
 año
